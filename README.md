@@ -7,6 +7,11 @@ Our board: [Azure Board](https://dev.azure.com/gamerpoint-dev/GP.API);
 
 ## Usage (TODO)
 
+### Prerequisites (TODO)
+
+### Install (TODO)
+
+
 ## Folder structure (TODO)
 
 ```
